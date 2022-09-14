@@ -28,11 +28,11 @@
 
 ![Team Profile Maker](/assets/images/screenshot.png "generated index.html page with employee cards") 
 
-A website that allows the user to quickly retrieve data on travel destinations
-* USER STORY: As a traveler, I need a web application that will give me all the information I need to plan my vacation efficiently.
-* Home page displays popular travel destinations.
-* Selected destination will bring you to the page that displays various information such as country flag and currency exchange.
-* Currency exchange and Current time & time zone is live data.
+A command line application that generates a page of employee information with user inputted data.
+* Using this command line application, the user can easily create an HTML file that displays their team roster through user input.
+* The team roster is comprised of three types of Employees: Manager, Engineer, and Intern. 
+* This project contains tests for Employees, Manager, Engineer, and Intern.
+* The HTML file displays the employee information on organized cards.
 ![Team Profile Maker](/assets/images/commandline.png "screenshot of command line application prompts and test") 
 
 Here is a link to the repo <a href="https://github.com/WhaleAnchor/Team-Profile-Maker">github.com/WhaleAnchor/Team-Profile-Maker</a>
