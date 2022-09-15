@@ -35,6 +35,8 @@ A command line application that generates a page of employee information with us
 * The HTML file displays the employee information on organized cards.
 ![Team Profile Maker](/assets/images/commandline.png "screenshot of command line application prompts and test") 
 
+A video demonstration of the application.
+![Team Profile Maker](//assets/video/recording.mp4 "video demonstration of the application and test") 
 Here is a link to the repo <a href="https://github.com/WhaleAnchor/Team-Profile-Maker">github.com/WhaleAnchor/Team-Profile-Maker</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
